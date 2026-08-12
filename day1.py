@@ -7,7 +7,6 @@
 #print(add_item(213))
 #print(add_item(111))
 
-
 def find(list,target):
     if list is None:
         return None
